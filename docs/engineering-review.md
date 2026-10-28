@@ -60,7 +60,7 @@ The referenced device also lists a 3.7–5.3 V supply range; the design derives 
 - The module's antenna keepout is present on both copper layers and respected by the saved fills. PCB material remains beneath the antenna.
 - All symbol and footprint identifiers resolve in the standard KiCad 10 libraries. No custom symbol or footprint libraries are required.
 - The ESP32-S3-MINI-1 symbol uses the ESP32-S2-MINI-1 footprint assignment also supplied by KiCad 10's stock library.
-- Missing U2/D4 component bodies are identified in the [3D CAD view](README.md#3d-cad-view).
+- Missing U2/D4 component bodies are identified in the [3D CAD view](README.md).
 - The component list contains generic selections; exact purchasing part numbers remain part of assembly preparation.
 
 ## Validation scope
