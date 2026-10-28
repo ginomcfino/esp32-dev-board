@@ -1,0 +1,19 @@
+{
+  ".gitignore": "227b7e1c5e34bf41b61ad8d5b4b68cb6db590ed68cadfa0bcf3a3229eb22a195",
+  "README.md": "cd918a8220d0ba38aa68109cd81e5c71763c478ff51b3ea5ce005e5d7d311f29",
+  "docs/checks/README.md": "c78bbb22faa93f60e229e29a6781bd2fb42698953fd90ca1fce8855d91a0fead",
+  "docs/checks/drc-dimension-probe.json": "93d97121ab0c9329db722d0cd0a5258d172a5a1dea16658ba3d5526c54c16eb7",
+  "docs/checks/drc.json": "87ba1933c9036164a7c41c8010e9b3387398d40fb0e3cd0eba90c31e35fb1f1a",
+  "docs/checks/erc.json": "8ad066d650aa1b7302a4c346e082a5a967df2553eb5646b08d120d495ca24fdc",
+  "docs/engineering-review.md": "f23cec865d654831758a68998c185db7c3fb74627579db046fe95ddb5e5614f5",
+  "docs/images/pcb-3d-render.png": "de38e99a8f2140df8c293df6fe73655fdd0eeae3b271d0dd7b1d37bf87d6cc44",
+  "docs/images/pcb-back.svg": "42fad18a74d49bfd87691b90367478778f451d3dba003c360692a0fcebe70573",
+  "docs/images/pcb-front.svg": "67f5b5640791971a6c0da903ef51521061dc1fc92bca8b79b0c76baf363471c1",
+  "docs/images/schematic-overview.png": "12411260d967f38404705d790ad4266cc250bc8605daea2177828b506f9f04a2",
+  "docs/visuals.md": "9b5a0c15aab033c860be5fcadd795e53ea01d59537ff5c500f2f9c64a34adeb2",
+  "exports/bom.csv": "d9c3349a8856a28fbfe7dc4ac8484b452a3155100f08117e9ee64bc4f30213dd",
+  "exports/schematic.pdf": "88dd6db6ea265167c62e6cdb2eb25134de749fcb6a85a521345bf35271aa1f13",
+  "hardware/esp32-s3-development-board.kicad_pcb": "4991e2ec3e41a177239c2647591a5f7970639569fd818505c02691e136db70a6",
+  "hardware/esp32-s3-development-board.kicad_pro": "470d03bae5f3b04093a9accc53e740d68b1d71aed7c6ac6dd37fdafaa92da13b",
+  "hardware/esp32-s3-development-board.kicad_sch": "3c1a07e96b71d323360bbd4d4ba73313e05ca210ee8991bc8d899bf06055800b"
+}

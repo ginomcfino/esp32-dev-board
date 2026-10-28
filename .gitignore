@@ -1,0 +1,15 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# KiCad local state and backups
+*.kicad_prl
+*.lck
+~*.lck
+fp-info-cache
+*-backups/
+.history/
+*.bak
+*.bck
